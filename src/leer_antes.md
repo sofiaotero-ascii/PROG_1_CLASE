@@ -23,29 +23,6 @@ Repositorio de **ejercicios en Java** para practicar control de flujo, bucles, f
 - Problemas de lógica básica y algoritmos.
 - Estructura organizada para facilitar el acceso y la edición.
 
-## Principales funciones a utilizar
-```mermaid
-mindmap
-root((Funciones en Java))
-Funciones de Entrada/Salida
-System.out.println()
-System.in.read()
-Funciones de String
-length()
-toUpperCase()
-substring()
-Funciones de Math
-Math.abs()
-Math.sqrt()
-Math.random()
-Funciones de Arrays
-Arrays.sort()
-Arrays.toString()
-Funciones de Fecha y Hora
-LocalDate.now()
-LocalDateTime.parse()
-````
-
 
 
 ## 📂 Estructura del Proyecto
