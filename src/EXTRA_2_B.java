@@ -4,11 +4,9 @@
  *    INICIO
  *    CREAMOS SCANNER
  *        PREGUNTAMOS POR EL VALOR EN CELSIUS (PRINT)
- *            DOUBLE CELSIUS
- *
+ *           DOUBLE CELSIUS
  *        CALCULAMOS EL VALOR EN KELVIN
  *            DOUBLE KELVIN = CELSIUS + 273.15
- *
  *        CALCULAMOS EL VALOR EN FAHRENHEIT
  *            DOUBLE FAHRENHEIT = (CELSIUS * 9/5) + 32
  *
@@ -29,3 +27,4 @@ public class EXTRA_2_B {
         System.out.println("Su valor en Fº es :" + fahrenheit);
     }
 }
+
