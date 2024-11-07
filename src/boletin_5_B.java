@@ -1,6 +1,6 @@
 /**
  * @version 1.0
- * @autor Sofía Otero
+ * @author Sofía Otero
  * ENUNCIADO: Realiza un programa que calcule a suma e o produto
  * dos números comprendidos entre 10 e 90.
  *Este programa calcula y muestra la suma y el producto acumulados de todos
